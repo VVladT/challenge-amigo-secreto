@@ -160,3 +160,9 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/* Mensaje de error */
+.error-message {
+    color: #e42121;
+    font-family: "Inter", sans-serif;
+}
